@@ -45,15 +45,9 @@ Function getGreeting() {
 void greet() => print("Hello!");
 void bye() => print("Goodbye!");
 
-void main() {
+void main2() {
   var actions = [greet, bye];
 
   actions[0](); // Output: Hello!
   actions[1](); // Output: Goodbye!
 }
-
-
-
-
-
- 

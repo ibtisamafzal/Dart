@@ -43,6 +43,3 @@ Write a Dart program that takes a month number (1-12) and prints:
 "Summer" for June (6), July (7), August (8)
 "Autumn" for September (9), October (10), November (11)
 */
-
-
-}
