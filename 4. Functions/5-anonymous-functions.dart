@@ -17,10 +17,10 @@ void main() {
   sayHello(); 
 }
 
-// void main() {
-//   var addNumbers = (int a, int b) {
-//     return a + b;
-//   };
+void main() {
+  var addNumbers = (int a, int b) {
+    return a + b;
+  };
 
-//   print(addNumbers(3, 7)); 
-// }
+  print(addNumbers(3, 7)); 
+}
